@@ -1,2 +1,8 @@
-# ppl
-Exercise sessions for the course Principles of Programming Languages at Politecnico di Milano.
+# Principles of Programming Languages
+Politecnico di Milano
+
+AA 2019/2020
+
+Teacher: **Matteo Pradella** [(website)](http://home.deib.polimi.it/pradella/PL.html)
+
+TA: **Michele Chiari**
