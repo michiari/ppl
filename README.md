@@ -19,3 +19,15 @@ Contents
 2. **2019/10/08 -- Scheme**
     * Structs
     * Macros
+
+3. **2019/10/15 -- Scheme**
+    * Closures
+    * Continuations
+	* More Macros
+
+4. **2019/10/29 -- Haskell**
+    * Basic syntax
+    * List comprehensions
+	* Infinite lists
+	* Defining new types -- sum types and product types
+	* Instantiating type classes
