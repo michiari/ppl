@@ -31,3 +31,10 @@ Contents
 	* Infinite lists
 	* Defining new types -- sum types and product types
 	* Instantiating type classes
+
+5. **2019/11/12 -- Haskell**
+    * More Higher Order Functions
+	* foldr/foldl
+	* Parametric Type Constructors
+	* Functor Type Class
+	* Foldable Type Class
