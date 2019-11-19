@@ -38,3 +38,10 @@ Contents
 	* Parametric Type Constructors
 	* Functor Type Class
 	* Foldable Type Class
+
+6. **2019/11/19 -- Haskell**
+    * Applicative as generalized function application
+	* ZipList
+	* Applicative Binary Trees
+	* Data.Map
+
