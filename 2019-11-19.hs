@@ -149,7 +149,7 @@ instance Applicative BTree where
 type PersonName = String
 type PhoneNumber = String
 type BillingAddress = String
-data MobileCarrier = TIM | Vodafone | Wind | Ho deriving (Eq, Show, Ord)
+data MobileCarrier = TIM | Vodafone | Wind | Iliad deriving (Eq, Show, Ord)
 
 
 findCarrierBillingAddress ::
