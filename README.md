@@ -15,7 +15,7 @@ Contents
     * Recursive functions
     * Tail recursion
     * Lists
-  
+
 2. **2019/10/08 -- Scheme**
     * Structs
     * Macros
@@ -44,4 +44,11 @@ Contents
 	* ZipList
 	* Applicative Binary Trees
 	* Data.Map
+
+7. **2019/11/26 -- Haskell**
+    * Monads
+	* The Maybe Monad
+	* The Log Monad
+	* Tree computations with logging
+
 
