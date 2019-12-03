@@ -51,4 +51,7 @@ Contents
 	* The Log Monad
 	* Tree computations with logging
 
-
+8. **2019/12/03 -- Haskell**
+    * More Monads: LolStream
+	* Implementing a Stack using the State Monad
+	* Previous Exam Text: Bilist
