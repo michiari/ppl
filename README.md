@@ -5,7 +5,7 @@ AA 2019/2020
 
 Teacher: **Matteo Pradella** [(website)](http://home.deib.polimi.it/pradella/PL.html)
 
-TA: **Michele Chiari**
+TA: **Michele Chiari** [(website)](https://michiari.github.io/)
 
 Contents
 --------
@@ -55,3 +55,10 @@ Contents
     * More Monads: LolStream
 	* Implementing a Stack using the State Monad
 	* Previous Exam Text: Bilist
+
+9. **2019/12/10 -- Erlang**
+   * Basic Syntax
+   * Spawning processes
+   * Sending/Receiving messages
+   * Parallel Merge Sort
+   * Concurrent application example: Publish/Subscribe (`2019-12-10-b.erl`)
