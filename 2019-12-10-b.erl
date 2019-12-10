@@ -1,5 +1,7 @@
--module(es9ps).
+-module('2019-12-10-b').
 -compile(export_all).
+
+%% NOTE: compile with c('2019-12-10-b').
 
 start_broker() ->
     BrokerPid = spawn(?MODULE, broker, []),

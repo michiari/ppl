@@ -1,6 +1,8 @@
--module(es9).
+-module('2019-12-10-a').
 %-export([add/2, factorial/1, factorial/2]).
 -compile(export_all).
+
+%% NOTE: compile with c('2019-12-10-a').
 
 add(A, B) ->
     A + B.
