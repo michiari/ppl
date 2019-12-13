@@ -66,4 +66,4 @@ Contents
 10. **2019/12/13 -- Erlang**
    * Ring topology
    * Exam training: Binary Trees (2017-07-05)
-   * Exam training: Dynamic List (2017-07-05)
+   * Exam training: Dynamic List (2017-07-20)
