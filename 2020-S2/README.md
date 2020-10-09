@@ -3,7 +3,7 @@ Politecnico di Milano
 
 AA 2020/2021
 
-**Squadra 1**
+**Squadra 2**
 
 Contents
 --------
@@ -14,7 +14,7 @@ Contents
     * Tail recursion
     * Lists
 
-2. **2020/10/06 -- Scheme**
+2. **2020/10/08 -- Scheme**
     * Structs
     * Functions with rest argument
     * Macros
