@@ -3,7 +3,6 @@ Politecnico di Milano
 
 AA 2020/2021
 
-**Squadra 1**
 
 Contents
 --------
@@ -22,3 +21,9 @@ Contents
 3. **2020/10/13 -- Scheme**
     * More macros and closures
     * Continuations
+
+4. **2020/10/22 -- Haskell**
+    * Basic syntax (pattern matching, guards, etc...)
+    * Lists
+    * Infinite Lists
+    * Folds
