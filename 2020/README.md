@@ -27,3 +27,9 @@ Contents
     * Lists
     * Infinite Lists
     * Folds
+
+5. **2020/11/05 -- Haskell**
+    * Declaring new types
+    * Making instances of Show, Eq, and Ord
+    * Binary Trees
+    * Making instances of Functor and Foldable
