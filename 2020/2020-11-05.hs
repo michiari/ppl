@@ -98,7 +98,7 @@ btmap f (BNode x l r) = BNode (f x) (btmap f l) (btmap f r)
 instance Functor BTree where
   fmap = btmap
 
--- Functor lows:
+-- Functor laws:
 -- fmap id = id
 -- fmap (f . g) = fmap f . fmap g
 -- Indeed:

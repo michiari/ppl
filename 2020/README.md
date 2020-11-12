@@ -33,3 +33,9 @@ Contents
     * Making instances of Show, Eq, and Ord
     * Binary Trees
     * Making instances of Functor and Foldable
+
+6. **2020/11/12 -- Haskell**
+    * Using Applicative Functors
+    * Making instances of Applicative
+    * Intro to Monads
+    * Using the Maybe monad
