@@ -39,3 +39,10 @@ Contents
     * Making instances of Applicative
     * Intro to Monads
     * Using the Maybe monad
+
+7. **2020/11/19 -- Haskell**
+    * Making instances of Monads
+    * The Log Monad
+    * Monad Laws
+    * Tree computations with logging
+    * Exercise form past exam: LolStream
