@@ -46,3 +46,8 @@ Contents
     * Monad Laws
     * Tree computations with logging
     * Exercise form past exam: LolStream
+
+8. **2020/11/26 -- Haskell**
+    * Some more Monads (LolStream, CashRegister)
+    * Using the State Monad (Stack)
+    * Bilist
