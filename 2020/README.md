@@ -51,3 +51,10 @@ Contents
     * Some more Monads (LolStream, CashRegister)
     * Using the State Monad (Stack)
     * Bilist
+
+9. **2020/12/03 -- Erlang**
+   * Basic Syntax
+   * Spawning processes
+   * Sending/Receiving messages
+   * Parallel Merge Sort
+   * Concurrent application example: Publish/Subscribe (`2019-12-10-b.erl`)
