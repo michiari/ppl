@@ -63,3 +63,8 @@ Contents
    * Ring topology
    * Exam training: Binary Trees (2017-07-05)
    * Exam training: Dynamic List (2017-07-20)
+
+11. **2020/12/21 -- Recap**
+   * Scheme: timer
+   * Scheme: engines with continuations
+   * Haskell: the `Either` monad
