@@ -12,3 +12,8 @@ Contents
     * Recursive functions
     * Tail recursion
     * Lists
+
+1. **2021/09/28 -- Scheme**
+    * Structs
+    * Functions with rest argument
+    * Macros
