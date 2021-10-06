@@ -17,3 +17,7 @@ Contents
     * Structs
     * Functions with rest argument
     * Macros
+
+1. **2021/10/05 -- Scheme**
+    * More macros and closures
+    * Continuations
