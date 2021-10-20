@@ -21,3 +21,10 @@ Contents
 1. **2021/10/05 -- Scheme**
     * More macros and closures
     * Continuations
+
+1. **2021/10/19 -- Haskell**
+    * Basic syntax (pattern matching, guards, etc...)
+    * Lists
+    * Infinite Lists
+    * Declaring new types
+    * Making instances of Show and Eq
