@@ -34,3 +34,7 @@ Contents
     * Folds
     * Binary Trees
     * Making instances of Functor and Foldable
+
+1. **2021/11/09 -- Haskell**
+    * Using Applicative Functors
+    * Making instances of Applicative
