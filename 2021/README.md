@@ -38,3 +38,10 @@ Contents
 1. **2021/11/09 -- Haskell**
     * Using Applicative Functors
     * Making instances of Applicative
+
+1. **2020/11/19 -- Haskell**
+    * The IO Monad and Main.main
+    * Making instances of Monads
+    * The Log Monad
+    * Monad Laws
+    * Tree computations with logging
