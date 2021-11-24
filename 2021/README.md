@@ -41,7 +41,11 @@ Contents
 
 1. **2020/11/19 -- Haskell**
     * The IO Monad and Main.main
-    * Making instances of Monads
+    * Making instances of Monad
     * The Log Monad
     * Monad Laws
     * Tree computations with logging
+
+1. **2021/11/23 -- Haskell**
+    * Some more Monads (LolStream, CashRegister)
+    * Using the State Monad (Stack)
