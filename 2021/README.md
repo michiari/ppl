@@ -49,3 +49,10 @@ Contents
 1. **2021/11/23 -- Haskell**
     * Some more Monads (LolStream, CashRegister)
     * Using the State Monad (Stack)
+
+1. **2021/11/30 -- Erlang**
+   * Basic Syntax
+   * Spawning processes
+   * Sending/Receiving messages
+   * Parallel Merge Sort
+   * Concurrent application example: Publish/Subscribe (`2020-11-30-b.erl`)
