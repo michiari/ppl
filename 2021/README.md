@@ -55,4 +55,4 @@ Contents
    * Spawning processes
    * Sending/Receiving messages
    * Parallel Merge Sort
-   * Concurrent application example: Publish/Subscribe (`2020-11-30-b.erl`)
+   * Concurrent application example: Publish/Subscribe (`2021-11-30-b.erl`)
