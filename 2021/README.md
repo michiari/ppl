@@ -56,3 +56,8 @@ Contents
    * Sending/Receiving messages
    * Parallel Merge Sort
    * Concurrent application example: Publish/Subscribe (`2021-11-30-b.erl`)
+
+1. **2021/12/13 -- Erlang**
+   * Ring topology
+   * Exam training: Binary Trees (2017-07-05)
+   * Exam training: Dynamic List (2017-07-20)
