@@ -61,3 +61,8 @@ Contents
    * Ring topology
    * Exam training: Binary Trees (2017-07-05)
    * Exam training: Dynamic List (2017-07-20)
+
+1. **2021/12/14 -- Recap**
+   * Scheme: coroutines
+   * Haskell: exercise from past exam (Bilist)
+   * Haskell: the `Either` monad
